@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfeecc06.css",
+    "main.js": "/static/js/main.fed4ee03.js",
+    "static/media/GThomePage.mp3": "/static/media/GThomePage.084360a60d161796d74c.mp3",
+    "static/media/img1.jpg": "/static/media/img1.d16d5c40a45a51573b40.jpg",
+    "static/media/ghosted.png": "/static/media/ghosted.7ada29919b5d3bde6157.png",
+    "static/media/ghoster1.png": "/static/media/ghoster1.4a563b2be086518463c6.png",
+    "static/media/img1.jpeg": "/static/media/img1.e207867132fb9e8c4eb7.jpeg",
+    "static/media/logSound.mp3": "/static/media/logSound.a2f3f8ae8dcf828c2012.mp3",
+    "index.html": "/index.html",
+    "main.cfeecc06.css.map": "/static/css/main.cfeecc06.css.map",
+    "main.fed4ee03.js.map": "/static/js/main.fed4ee03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfeecc06.css",
+    "static/js/main.fed4ee03.js"
+  ]
+}
